@@ -1,2 +1,2 @@
 # iRenameFiles
-Python script which allows to add a prefix and / or sufix to all the files of a folder
+Python script which allows to add a prefix and / or suffix to all the files in a folder
