@@ -1,2 +1,2 @@
 # iRenameFiles
-Python script to rename batch files in a folder
+Python script which allows to add a prefix and / or sufix to all the files of a folder
